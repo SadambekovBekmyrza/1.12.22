@@ -2,8 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(./png/fon.jpg);
-  background-repeat: no-repeat;
+  background-image: url(./png/fona.jpg);
 }
 body .content img {
   border-radius: 50%;
